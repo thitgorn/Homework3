@@ -1,0 +1,6 @@
+#ignoring unwanted files
+.classpath
+.project
+.settings/
+bin/
+.class
